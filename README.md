@@ -1,2 +1,1 @@
-# s6a4_new_atm
-This is my ATM project.
+This project is created with the help of Typescript,Node.js,Inquirer and Chalk.
